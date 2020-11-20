@@ -1,3 +1,5 @@
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # 第二章 一个简单的互联网络
 
 在本章中，我们将研究简单互连网络的体系结构和设计，以提供全局视图。我们将研究最简单的网络：具有丢包流量控制（dropping flow control）功能的蝶形网络（butterfly network）。尽管最终的网络成本（cost）很高，但它强调了互连网络设计的许多关键方面。在后面的章节中，我们将学习如何产生更有效和实用的网络。
